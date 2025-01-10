@@ -288,9 +288,9 @@
                         type="scale"
                         from="1.5 1.5"
                         to="0.5 0.5"
-						begin="1s"
+						begin="0s"
 					    fill="freeze"
-                        dur="0.5s"
+                        dur="1.5s"
                         repeatCount="1"
                     />
 
@@ -348,6 +348,15 @@
 					    fill="freeze"
                         dur="0.2s"
                         repeatCount="1"
+                    />
+
+        			<animate
+        				attributeName="stroke-width"
+                        values="10px; 50px; 10px"
+						begin="finalPinkHeartScale.end+1.5s"
+					    fill="freeze"
+                        dur="0.5s"
+                        repeatCount="indefinite"
                     />
 			</path>
 		</svg>
