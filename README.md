@@ -5,7 +5,7 @@ This is an SVG with only inline CSS
 1. Letters `I` and `U` are covered with red hearts.
 2. Pink heart falls on top of red hearts.
 3. Pink heart absorbs red hearts to grow bigger.
-4. Final SVg reads `I &heart; U`.
+4. Final SVG reads `I &heart; U`.
 5. Circles orbit the perimeter of pink heart indefinitely.
 
 ## Defs
